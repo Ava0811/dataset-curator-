@@ -1,0 +1,49 @@
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Uploads and temporary files
+uploads/
+*.pdf
+*.csv
+*.json~
+
+# Database
+curator.db
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# Kaggle credentials (keep private)
+.kaggle/
+
+# Node modules (if any)
+node_modules/
+
+# Build files
+build/
+dist/
+*.egg-info/
